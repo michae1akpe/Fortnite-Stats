@@ -11,8 +11,11 @@ With version 1 of the Power Ranking Tracker script it ***fails*** and prints a l
 
 How to run python scripts:
 ***Mac/Linux***
+
 git clone https://github.com/michae1akpe/Fortnite-Stats.git
+
 cd Fortnite-Stats
+
 python3 Fortnite Tracker.py ***or*** python3 Power Ranking Tracker.py
 
 ***Windows***
