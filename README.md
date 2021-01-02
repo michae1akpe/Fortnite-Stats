@@ -19,8 +19,11 @@ cd Fortnite-Stats
 python3 Fortnite Tracker.py ***or*** python3 Power Ranking Tracker.py
 
 ***Windows***
+
 Download zip file from github
+
 Extract file into a working directory
+
 Run in your preferred text editor
 
 
