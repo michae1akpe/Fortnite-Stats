@@ -6,9 +6,6 @@ This project was inspired by some of my mate bantering about checking people sta
 ***You must have the python module "requests" installed. (pip install requests)***
 ***You must get your own TRN-Api-Key from "https://tracker.gg/developers" unless the request can not be completed and you will probably get a '401 error'***
 
-***NOTE***
-With version 1 of the Power Ranking Tracker script it ***fails*** and prints a long error if the username you have entered has no Power Ranking, so do not be alarmed by this. It will be corrected in due time with error handling.
-
 How to run python scripts:
 
 ***Mac/Linux***
